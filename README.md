@@ -8,3 +8,7 @@ You need to get your own api key (in video we showed how!) and replace it in ind
 const APIKey = 'Your Api Key';
 ```
 
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](screenshot.png)
